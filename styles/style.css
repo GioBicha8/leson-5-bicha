@@ -25,12 +25,6 @@ header {
   padding-left: 50px;
 }
 
-.navbar a:hover {
-  color: rgb(246, 255, 0);
-  text-transform: uppercase;
-  background-color: rgb(0, 0, 0);
-}
-
 ul {
   list-style-type: none;
 }
@@ -69,7 +63,6 @@ body {
 }
 
 .active {
-  background-color: black;
 }
 
 .block {
@@ -95,7 +88,7 @@ footer {
   top: 2155px;
   left: 0px;
   width: 1345px;
-  height: 550px;
+  height: 600px;
 }
 .container {
   width: 20%;
@@ -124,7 +117,7 @@ h2 {
   margin-top: 10px;
   margin-left: 15px;
 }
-.second-p-1{ 
-  font-family: "BPG Arial", sans-serif
-  
+.second-p-1 {
+  font-family: "BPG Arial", sans-serif;
+  width: 400px;
 }
